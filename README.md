@@ -1,4 +1,4 @@
-## LP1DPBO2024C2
+## TP1DPBO2025C1
 
 ## Janji
 Saya [ Safira Aliyah Azmi || 23092093 ] mengerjakan Latihan Modul Praktikum 1 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahannya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
