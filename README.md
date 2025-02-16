@@ -23,3 +23,7 @@ Program ini memungkinkan pengguna untuk mengelola data produk petshop dengan lan
 4. Jika memilih 4 (Hapus Produk), pengguna diminta memasukkan kode produk yang ingin dihapus.
 5. Jika memilih 5 (Cari Produk), pengguna dapat mencari produk berdasarkan nama item.
 6. Jika memilih 0 (Keluar), program akan berhenti.
+
+## Dokumentasi ouput:
+https://drive.google.com/drive/folders/1jf_FChzR2g_fXSb2fhmj9rgfuDVSfU70?usp=sharing
+
