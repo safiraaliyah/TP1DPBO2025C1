@@ -48,4 +48,5 @@ Program menggunakan kelas `PetShop` dengan atribut berikut:
 ##Dokumentasi 
 Dokumentasi lengkap ada di setiap foldernya ya sis
 
-##
+##PYTHON
+![Image](https://github.com/user-attachments/assets/9b900240-ba3c-402e-9413-cb5b53c7d062)
