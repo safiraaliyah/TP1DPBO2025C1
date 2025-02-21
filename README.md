@@ -1,29 +1,51 @@
-## TP1DPBO2025C1
 
 ## Janji
-Saya [ Safira Aliyah Azmi || 23092093 ] mengerjakan Latihan Modul Praktikum 1 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahannya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya [ Safira Aliyah Azmi || 23092093 ] mengerjakan Latihan Praktikum 1 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahannya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
-## Petshop
-1. Menyimpan informasi produk berupa kode, nama item, jenis, dan biaya.
-2. Memiliki getter dan setter untuk mengakses dan mengubah data.
-3. Memiliki metode untuk menampilkan informasi produk dalam format tabel.
+## Deskripsi Program
+Program ini mengimplementasikan sistem manajemen PetShop dalam empat bahasa pemrograman: C++, Java, Python, dan PHP. Program memungkinkan pengguna untuk mengelola data produk petshop dengan operasi dasar CRUD (Create, Read, Update, Delete).
 
-## Fungsi CRUD
-1. tambahProduk(): Menambahkan produk baru ke dalam daftar.
-2. tampilkanProduk(): Menampilkan semua produk yang tersimpan.
-3. ubahProduk(): Mengubah informasi produk berdasarkan kode.
-4. hapusProduk(): Menghapus produk berdasarkan kode.
-5. cariProduk(): Mencari produk berdasarkan nama item.
+## Struktur Kelas
+Program menggunakan kelas `PetShop` dengan atribut berikut:
+- ID 
+- Nama Produk
+- Kategori
+- Harga
+- Foto (khusus implementasi PHP)
 
-## Penjelasan Alur
-Program ini memungkinkan pengguna untuk mengelola data produk petshop dengan langkah-langkah berikut:
-1. Jika memilih 1 (Tambah Produk), pengguna diminta memasukkan kode, nama item, jenis, dan biaya produk.
-2. Jika memilih 2 (Tampilkan Produk), semua produk yang telah dimasukkan akan ditampilkan dalam bentuk tabel.
-3. Jika memilih 3 (Ubah Produk), pengguna diminta memasukkan kode produk yang ingin diubah beserta data baru.
-4. Jika memilih 4 (Hapus Produk), pengguna diminta memasukkan kode produk yang ingin dihapus.
-5. Jika memilih 5 (Cari Produk), pengguna dapat mencari produk berdasarkan nama item.
-6. Jika memilih 0 (Keluar), program akan berhenti.
+## Fitur Program
+1. Tambah produk baru
+2. Tampilkan semua produk
+3. Ubah data produk
+4. Hapus produk
+5. Cari produk berdasarkan nama
+6. Keluar program (untuk C++, Java, Python)
 
-## Dokumentasi ouput:
-https://drive.google.com/drive/folders/1jf_FChzR2g_fXSb2fhmj9rgfuDVSfU70?usp=sharing
+## Alur Program
 
+1. Program menampilkan menu dengan pilihan:
+   - Tambah Produk
+   - Tampilkan Produk
+   - Ubah Produk
+   - Hapus Produk
+   - Cari Produk
+   - Keluar
+2. Pengguna memilih menu (1-6)
+3. Program mengeksekusi operasi yang dipilih
+4. Hasil ditampilkan
+5. Kembali ke menu utama hingga memilih keluar
+
+### Aplikasi Web (PHP)
+1. Menampilkan produk dalam tampilan grid
+2. Pengguna dapat:
+   - Menambah produk baru dengan tombol "Tambah Produk"
+   - Mengubah produk dengan tombol "Edit"
+   - Menghapus produk dengan tombol "Hapus"
+   - Mencari produk menggunakan kolom pencarian
+3. Perubahan langsung ditampilkan
+4. Data tersimpan dalam session
+
+##Dokumentasi 
+Dokumentasi lengkap ada di setiap foldernya ya sis
+
+##
