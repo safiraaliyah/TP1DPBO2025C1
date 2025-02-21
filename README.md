@@ -45,8 +45,20 @@ Program menggunakan kelas `PetShop` dengan atribut berikut:
 3. Perubahan langsung ditampilkan
 4. Data tersimpan dalam session
 
-##Dokumentasi 
+## Dokumentasi Program
 Dokumentasi lengkap ada di setiap foldernya ya sis
 
-##PYTHON
+## Dokumentasi C++
+
+![Image](https://github.com/user-attachments/assets/0cc3a0d9-5498-4987-9235-ba7544d68f8c)
+
+## Dokumentasi PYTHON
+
 ![Image](https://github.com/user-attachments/assets/9b900240-ba3c-402e-9413-cb5b53c7d062)
+
+## Dokumentasi JAVA
+![Image](https://github.com/user-attachments/assets/45748d6e-2abe-4455-89a3-adbdc74f3762)
+
+## Dokumentasi PHP
+
+![Image](https://github.com/user-attachments/assets/aee28695-3ff1-4a3f-b5f2-72f92f7ef24b)
